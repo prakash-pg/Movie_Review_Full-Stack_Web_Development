@@ -30,7 +30,7 @@ This is a full-stack web development project for a movie review website. Users c
 ### Technologies Used
 
 - **React:** JavaScript library for building the user interface.
-- **Bootstrap:** CSS framework for responsive and mobile-first web development.
+- **Bootstrap:** CSS framework for responsive and web development.
 - **JavaScript and CSS:** Languages for client-side scripting and styling.
 
 ### Setup
