@@ -17,19 +17,13 @@ This is a full-stack web development project for a movie review website. Users c
 
 ### Setup
 
-1. Clone the repository:
+1. Open the backend project in IntelliJ IDEA.
 
-   ```bash
-   git clone https://github.com/your-username/your-repository.git
-   ```
+2. Configure MongoDB connection in `application.properties`.
 
-2. Open the backend project in IntelliJ IDEA.
+3. Run the Spring Boot application.
 
-3. Configure MongoDB connection in `application.properties`.
-
-4. Run the Spring Boot application.
-
-5. Use Postman to test the REST APIs.
+4. Use Postman to test the REST APIs.
 
 ## Frontend
 
@@ -61,5 +55,4 @@ This is a full-stack web development project for a movie review website. Users c
 
 4. Open the application in your browser: [http://localhost:3000](http://localhost:3000)
 
-Credits and Reference -> https://youtu.be/5PdEmeopJVQ?si=ZXRLxLw-bkmI5Uuz
 
